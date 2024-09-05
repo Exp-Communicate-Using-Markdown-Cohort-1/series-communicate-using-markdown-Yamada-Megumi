@@ -15,3 +15,14 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] List syntax is required
 - [x] This item is complete
 - [ ] This item is not complete
+
+## list cheker
+- George Washington
+* John Adams
++ Thomas Jefferson
+
+1.  First list item
+    - First nested list item
+      - Second nested list item
+2. James Monroe
+3. John Quincy Adams
